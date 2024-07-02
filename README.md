@@ -4,11 +4,11 @@ Proyek ini berfokus pada analisis data perumahan menggunakan metode Clustering d
 
 ## URL Datasets
 
-![Housing Price in South Tangerang City (Indonesia)](https://www.kaggle.com/datasets/gerryzani/housing-price-in-south-tangerang-city-indonesia/)
+- [Housing Price in South Tangerang City (Indonesia)](https://www.kaggle.com/datasets/gerryzani/housing-price-in-south-tangerang-city-indonesia/)
 
 disini saya menggunakan datasets yang telah di bersihkan oleh @IMRANHARUN
 
-![Data Cleansing & Visualization](https://www.kaggle.com/code/imranharunn/data-cleansing-visualization)
+- [Data Cleansing & Visualization](https://www.kaggle.com/code/imranharunn/data-cleansing-visualization)
 
 ## Deskripsi File
 
@@ -18,3 +18,11 @@ disini saya menggunakan datasets yang telah di bersihkan oleh @IMRANHARUN
 - **filtered_property_data.csv**: Dataset yang berisi data perumahan yang telah difilter dan siap untuk dianalisis.
 - **README.md**: File ini yang berisi deskripsi proyek.
 - **Scatter_Plot.png**: Gambar yang menunjukkan plot scatter dari data perumahan.
+
+## output gambar
+
+![Scatter Plot Raw Land Size x Listing Price](Scatter_Plot.png)
+
+![Optimal K with Elbow Method](Elbow_Method.png)
+
+![Clustering Scatter Plot](Clustering.png)
