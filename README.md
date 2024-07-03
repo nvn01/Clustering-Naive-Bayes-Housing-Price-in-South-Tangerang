@@ -19,6 +19,10 @@ disini saya menggunakan datasets yang telah di bersihkan oleh @IMRANHARUN
 - **README.md**: File ini yang berisi deskripsi proyek.
 - **Scatter_Plot.png**: Gambar yang menunjukkan plot scatter dari data perumahan.
 
+## Dokumentasi Blogspot
+
+[Mengolah Datasets Price Housing in South Tangerang dengan K-means Clustering dan Naive Bayes](https://novandra-anugrah.blogspot.com/2024/06/mengolah-datasets-price-housing-in.html)
+
 ## output gambar
 
 ![Scatter Plot Raw Land Size x Listing Price](Scatter_Plot.png)
