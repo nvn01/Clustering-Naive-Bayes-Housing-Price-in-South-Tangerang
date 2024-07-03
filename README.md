@@ -25,8 +25,8 @@ disini saya menggunakan datasets yang telah di bersihkan oleh @IMRANHARUN
 
 ## output gambar
 
-![Scatter Plot Raw Land Size x Listing Price](Scatter_Plot.png)
+![Scatter Plot Raw Land Size x Listing Price](output-scatter-plot.png)
 
-![Optimal K with Elbow Method](Elbow_Method.png)
+![Optimal K with Elbow Method](output-inertia.png)
 
-![Clustering Scatter Plot](Clustering.png)
+![Clustering Scatter Plot](output-clustering.png)
